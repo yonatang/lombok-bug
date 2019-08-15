@@ -1,0 +1,1 @@
+Shows how adding a `import static` of a builder breaks compilation 
